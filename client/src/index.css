@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    background-color: #F8F4E1;
+}
+header{
+    background-color: #543310;
+}
+.copyright{
+    background-color: #AF8F6F;
+    color: white;
+}
